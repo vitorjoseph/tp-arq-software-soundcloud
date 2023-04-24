@@ -1,3 +1,4 @@
+<div align="justify">
 # Sound Cloud
 
 ## Resumo
