@@ -9,9 +9,10 @@ As aplicações da SoundCloud reutilizam sua API pública; o uso de uma camada d
 
 O presente trabalho buscará demonstrar a evolução da arquitetura de serviços na SoundCloud nos últimos anos, bem como abordará os desafios que foram encontrados e as soluções adotadas. Em específico, será abordo a arquitetura Backends for Frontends (BFF), descrevendo seus prós e contras e os principais tópicos relacionados a essa abordagem.
 
-![Arquitetura Backends for Frontends](./Imagens/bff-2021.png "Arquitetura Backends for Frontends")
+  
+<div style="text-align:center">Backends for Frontends</div>
+<div style="text-align:center"><img src="Imagens/bff-2021.png" alt="Figura 1" /><br />Figura 1: BFF no SoundCloud em 2021</div>
 
-Figura 1. BFF no SoundCloud em 2021.
 
 
 </div>
