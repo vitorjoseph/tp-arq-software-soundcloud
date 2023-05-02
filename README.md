@@ -11,8 +11,9 @@ O presente trabalho buscará demonstrar a evolução da arquitetura de serviços
 
   
 <p align="center">
-  <b>Figura 1. Arquitetura Backends for Frontends.</b><br>
+  <br>
   <img src="./Imagens/bff-2021.png">
+  Figura 1. Arquitetura Backends for Frontends.</b><br>
 </p>
 
 
