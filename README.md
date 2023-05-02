@@ -15,11 +15,11 @@ soluções adotadas. Em específico, será abordo a arquitetura Backends for Fro
 abordagem.
 
 <div align="center">
-  Backends for Frontends no SoundCloud em 2021</b><br><br>
+  <b>Backends for Frontends no SoundCloud em 2021</b><br><br>
   <img src="./Imagens/bff-2021.png" alt="Arquitetura Backends for Frontends"><br>
  
  
-   <b>Figura 1. Arquitetura BFF.<br>
+ <b>Figura 1. Arquitetura BFF.<br></b>
 </div> 
 
  
